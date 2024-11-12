@@ -3,6 +3,10 @@
 This project was developed within the scope of the CET 314 computer network systems course. The aim of the project is to design an internet infrastructure for an imaginary campus using the Cisco Packet Tracer application. 
 The design was carefully made according to the needs of the campus and the buildings on the campus, and a cost-effective internet system was distributed throughout the campus.
 
+You can access the detailed project reports and requirements for each campus:
+
+----
+
 Here are some photos from application itself for better understanding.
 
 <img width="491" alt="Screenshot 2024-05-12 at 19 20 56" src="https://github.com/user-attachments/assets/0625aeac-8b00-4946-8e3f-4f6d09b907d2">
